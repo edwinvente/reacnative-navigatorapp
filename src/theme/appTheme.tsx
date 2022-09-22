@@ -1,5 +1,8 @@
 import { StyleSheet } from 'react-native';
 
+export const colors ={
+    pruple:'purple', 
+}
 
 export const styles = StyleSheet.create({
     globalMargin: {
